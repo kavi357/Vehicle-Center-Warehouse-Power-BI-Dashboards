@@ -1,0 +1,31 @@
+service_type_id,service_name,estimated_duration_hours
+1,Brake Inspection Service,5
+2,Oil Change Service,4
+3,Tire Rotation Service,1
+4,Battery Replacement Service,3
+5,Engine Diagnostic Service,2
+6,Transmission Check Service,5
+7,AC Repair Service,2
+8,Wheel Alignment Service,1
+9,Suspension Repair Service,4
+10,Radiator Flush Service,4
+11,Spark Plug Replacement Service,2
+12,Fuel System Cleaning Service,2
+13,Headlight Replacement Service,2
+14,Air Filter Change Service,3
+15,Timing Belt Replacement Service,4
+16,Exhaust Repair Service,3
+17,Clutch Adjustment Service,3
+18,Steering Inspection Service,4
+19,Windshield Wiper Replacement Service,1
+20,Coolant Top-up Service,1
+21,Fuse Replacement Service,4
+22,Horn Repair Service,1
+23,Seat Belt Fixing Service,4
+24,Paint Touch-up Service,1
+25,Rust Removal Service,4
+26,Dashboard Fixing Service,4
+27,Door Lock Repair Service,2
+28,Interior Cleaning Service,4
+29,Software Update Service,4
+30,Remote Key Setup Service,5

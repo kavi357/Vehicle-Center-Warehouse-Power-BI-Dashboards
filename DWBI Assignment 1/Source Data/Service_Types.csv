@@ -1,0 +1,8 @@
+service_type_id,service_name,estimated_duration_hours
+ST00001,Brake Inspection,2
+ST00002,Oil Change,1
+ST00003,Tire Replacement,1
+ST00004,Engine Diagnostics,3
+ST00005,Battery Replacement,1
+ST00006,AC Repair,2
+ST00007,Transmission Repair,4
